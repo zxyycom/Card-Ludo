@@ -1,15 +1,7 @@
 {
   "mcpServers": {
-    "godot-mcp": {
-      "url": "http://127.0.0.1:3000/mcp"
-    },
-    "codegraph": {
-      "type": "stdio",
-      "command": "codegraph",
-      "args": [
-        "serve",
-        "--mcp"
-      ]
+    "godot-ai": {
+      "url": "http://127.0.0.1:8000/mcp"
     }
   }
 }
